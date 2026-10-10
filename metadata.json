@@ -1,0 +1,8 @@
+{
+  "name": "Remix CODE RED TOOL - Cybersecurity VAPT \u0026 Remediation Platform",
+  "description": "Defensive vulnerability assessment, posture analysis, risk prioritization, and remediation management for engineering teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
